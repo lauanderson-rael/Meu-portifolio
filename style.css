@@ -59,3 +59,28 @@ nav a:hover{
     color:rgb(18, 255, 18) ;
 }
 
+/* ===== PAGINA PROJETOS ===== */
+
+.imgProjects{
+    width: 850px;
+    height: 450px;
+}
+
+.Projects h3{
+    color:rgb(18, 255, 18) ;
+     
+}
+
+.Projects a{
+    color:rgb(0, 242, 255) ;
+     
+}
+
+.Projects li{
+    list-style-type: square;
+     
+}
+
+
+    
+
